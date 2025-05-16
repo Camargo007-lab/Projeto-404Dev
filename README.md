@@ -1,6 +1,9 @@
 # Projeto 404Dev - Devops
 Destinado para o trabalho de Devolps
 Grupo 14
+
+https://prod-404dev.cvyqqa.easypanel.host/index.html
+
 O site possui as seguintes funcionalidades:
 
 Página Inicial (index.html):
